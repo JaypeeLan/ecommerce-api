@@ -1,0 +1,10 @@
+node_modules
+package-lock.json
+.env
+yarn-error.log
+yarn-lock.json
+yarn.lock
+.DS_Store
+dump
+dist
+.DS_Store
